@@ -12,6 +12,7 @@ div.glossary
     column-rule: 1px dotted #ccc;
 	background-color: #FFFFFF;
 	padding: 5%;
+	margin-bottom: 10%;
 }
 
 @media screen and (max-width: 768px) {
