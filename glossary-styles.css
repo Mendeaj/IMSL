@@ -1,3 +1,7 @@
+div.glossary a{
+	color: #200069;
+}
+
 div.glossary
 {
     -webkit-column-count: 3;
