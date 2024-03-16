@@ -202,6 +202,9 @@
  if (term.includes('constant')){
 	  window.open('terms/constant.html');
  }
+if (term.includes('pythagorean theorem')){
+	  window.open('terms/pythagorean-theorem.html');
+ }
  if (term.includes('converse of the pythagorean theorem')){
 	  window.open('terms/converse-of-pythagorean-theorem.html');
  }
@@ -579,9 +582,6 @@
  }
  if (term.includes('pyramid')){
 	  window.open('terms/pyramid.html');
- }
- if (term.includes('pythagorean theorem')){
-	  window.open('terms/pythagorean-theorem.html'); //fix this one
  }
  //Q's
  if (term.includes('quadrant')){
