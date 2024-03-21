@@ -156,6 +156,12 @@ font-family: Montserrat, sans-serif;
   display: flex;
   margin: 2%;
   padding: 1%;
-  align-items: right;
-  flex-direction: row;
+  align-items: center;
+  flex-direction: column;
+}
+
+video{
+	border-style: solid;
+	border-width: 15px;
+	border-color: #FFFFFF;
 }
