@@ -115,6 +115,7 @@ font-family: Montserrat, sans-serif;
   align-items: center;
   justify-content: center;
   background-color: white;
+  text-align: center;
 }
 
 .flex-container-two {
@@ -124,6 +125,7 @@ font-family: Montserrat, sans-serif;
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  text-align: center;
 }
 
 .flex-container-two-two {
@@ -134,6 +136,7 @@ font-family: Montserrat, sans-serif;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  text-align: center;
 }
 
 input[type=text]:focus {
