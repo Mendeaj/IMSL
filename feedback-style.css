@@ -150,3 +150,12 @@ font-family: Montserrat, sans-serif;
   justify-content: center;
   flex-direction: column;
 }
+
+.flex-container-three {
+  height: auto;
+  display: flex;
+  margin: 2%;
+  padding: 1%;
+  align-items: right;
+  flex-direction: row;
+}
