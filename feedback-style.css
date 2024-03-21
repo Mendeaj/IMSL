@@ -1,0 +1,152 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+	color: #4300DE;
+}
+
+
+
+html{
+	font-family: Montserrat, sans-serif;
+	overflow-x: hidden;
+}
+
+
+body{
+	min-height: 100vh;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+h1 {
+  font-size: 7vh;
+}
+
+h2{
+	display: flex;
+	justify-content: center;
+}
+
+footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 10%;
+	width: 100%;
+	background-color: #200069;
+	text-align: center;
+}
+
+body{
+	background-color: #EBF2FF;
+	height: 90%;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #200069;
+}
+
+.topnav-text{
+	color: white;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #4300DE;
+}
+
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+@media screen and (max-width: 90%) {
+  .topnav a{
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+
+}
+
+* {
+font-family: Montserrat, sans-serif;
+}
+		.search-container {
+		   max-width: 150%;
+		}
+		input[type="text"] {
+		    width: 100%;
+			font-size: 2vh;
+		    font-weight: 600;
+		    color: #200069;
+		    padding: 10px;
+		}
+		input[type="submit"] {
+		    font-size: 2vh;
+		    font-weight: 600;
+		    color: #FFFFFF;
+		    padding: 10px;
+			background-color: #200069;
+		}
+		input[type="reset"] {
+		    font-size: 2vh;
+		    font-weight: 600;
+		    color: #FFFFFF;
+		    padding: 10px;
+			background-color: #200069;
+		}
+		
+
+.flex-container {
+  flex-direction: column;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.flex-container-one {
+  max-width: 90%;
+  margin: 1%;
+  padding: 2%;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  text-align: center;
+}
+
+.flex-container-two {
+  display: flex;
+  margin: 2%;
+  padding: 1%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.flex-container-two-two {
+  height: auto;
+  display: flex;
+  margin: 2%;
+  padding: 1%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
