@@ -770,5 +770,6 @@ if (term.includes('cosecant')){
  if (term.includes('zero')){
 	  window.open('terms/zero.html'); 
  }
+ else if (alert("That term does not have a corresponding sign yet. Please submit your suggestions to the feedback page. Thank you!")) {} 
 }
 
