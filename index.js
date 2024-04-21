@@ -220,6 +220,9 @@ if (term.includes('pythagorean theorem')){
  if (term.includes('coordinate plane')){
 	  window.open('terms/coordinate-plane.html');
  }
+if (term.includes('cosecant')){
+	  window.open('terms/cosecant.html');
+ }
  if (term.includes('cosine')){
 	  window.open('terms/cosine.html');
  }
