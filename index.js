@@ -479,7 +479,7 @@ if (term.includes('cosecant')){
  if (term.includes('net')){
 	  window.open('terms/net.html');
  }
- if (term.includes('number system (1-9)')){
+ if (term.includes('number system (1-10)')){
 	  window.open('terms/number-system-1.html');
  }
  if (term.includes('number system (11+)')){
