@@ -62,7 +62,7 @@
  if (term.includes('inscribed angle in a circle')){
 	  window.open('terms/inscribed-angle-in-a-circle.html');
  }
- if (term.includes('isoceles triangle')){
+ if (term.includes('isosceles triangle')){
 	  window.open('terms/isoceles-triangle.html');
  }
  if (term.includes('obtuse angle')){
